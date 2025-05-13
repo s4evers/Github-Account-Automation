@@ -1,0 +1,6 @@
+Поставьте здесь свой github api token.
+API выглядит так:
+
+ghp_VKNzSWHyGEXsQKFZjL3Zwhhwu72uydfr4i882dum8
+ghp_VKNzSWHyGEXsQKFZjL3Zwhhwu72uydfr4i8827822
+и т.д
