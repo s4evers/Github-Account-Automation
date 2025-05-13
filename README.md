@@ -41,7 +41,7 @@
 ```bash
 python stars.py
 ```
-**Подписаться**
+**Подписаться на аккаунту:**
 ```bash
 python follow.py
 ```
